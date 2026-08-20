@@ -7,8 +7,8 @@ function Stats() {
           <h1 className="fs-2 mb-5">Trust with confidence</h1>
           <h2 className="fs-4">Customer-first always</h2>
           <p className="text-muted">
-            That's why thousands of TradeSphere users trust our platform to invest and
-  trade across multiple financial products.
+            TradeSphere is designed to give investors a simple and reliable
+            platform to invest and trade across multiple financial products.
           </p>
           <h2 className="fs-4">No spam or gimmicks</h2>
           <p className="text-muted">
@@ -17,26 +17,29 @@ function Stats() {
           </p>
           <h2 className="fs-4">The TradeSphere universe</h2>
           <p className="text-muted">
-            Not just an app, but a whole ecosystem. Our investments in 30+
-            fintech startups offer you tailored services specific to your needs.
+            More than just a trading platform, TradeSphere brings essential
+            investing and trading features together in one simple ecosystem.
           </p>
           <h2 className="fs-4">Do better with money</h2>
           <p className="text-muted">
-            With initiatives like Nudge and Kill Switch, we don't just
-            facilitate transactions, but actively help you do better with your
-            money.
+            With smart trading tools and risk-aware features, TradeSphere helps
+            you make informed investment decisions.
           </p>
         </div>
         <div className="col-6 p-5">
-          <img src="media/images/ecosystem.png" alt="TradeSphere investment ecosystem" style={{ width: "90%" }} />
+          <img
+            src="media/images/ecosystem.png"
+            alt="TradeSphere investment ecosystem"
+            style={{ width: "90%" }}
+          />
           <div className="text-center">
-            <a href="" className="mx-5" style={{ textDecoration: "none" }}>
+            <a className="mx-5" style={{ textDecoration: "none" }}>
               Explore our products{" "}
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+              <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
-            <a href="" style={{ textDecoration: "none" }}>
-              Try Kite demo{" "}
-              <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+            <a style={{ textDecoration: "none" }}>
+              Try TradeSphere demo{" "}
+              <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
             </a>
           </div>
         </div>
