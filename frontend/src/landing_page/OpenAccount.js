@@ -1,9 +1,25 @@
-import React from 'react'
+import React from "react";
 
 const OpenAccount = () => {
   return (
-    <h1>Open Account</h1>
-  )
-}
+    <div className="container p-5 mb-5">
+      <div className="row text-center">
+        <h1 className="mt-5">Open a TradeSphere account</h1>
 
-export default OpenAccount
+        <p className="mt-3">
+          Modern platforms and apps, ₹0 investments, and flat ₹20 intraday
+          and F&O trades.
+        </p>
+
+        <button
+          className="btn btn-primary fs-5 mb-5 mt-3 mx-auto"
+          style={{ width: "200px" }}
+        >
+          Sign up for free
+        </button>
+      </div>
+    </div>
+  );
+};
+
+export default OpenAccount;
