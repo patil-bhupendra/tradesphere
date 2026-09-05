@@ -7,7 +7,7 @@ function Footer() {
         <div className="row mt-5 ">
           <div className="col">
             <img src="media/images/logo.svg" style={{ width: "50%" }} />
-            <p>&copy; 2010 - 2026, TradeSphere Broking Ltd. All rights reserved.</p>
+            <p></p>
           </div>
           <div className="col ">
             <p>Company</p>
