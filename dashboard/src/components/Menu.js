@@ -3,7 +3,7 @@ import React from "react";
 const Menu = () => {
   return (
     <div className="menu-container">
-      <img src="logo.png" style={{ width: "50px" }} />
+      <img src="logo.svg" style={{ width: "50px" }} />
       <div className="menus">
         <ul>
           <li>
@@ -26,7 +26,7 @@ const Menu = () => {
           </li>
         </ul>
         <hr />
-        <div className="profile" onClick={handleProfileClick}>
+        <div className="profile">
           <div className="avatar">TS</div>
           <p className="username">USERID</p>
         </div>
